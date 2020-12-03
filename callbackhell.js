@@ -1,4 +1,5 @@
-console.log("Callbacks Hell");
+document.write("<h2>Callbacks Hell</h2><br/>");
+document.write("You can see working in console");
 
 console.log("Before prepare Food");
 

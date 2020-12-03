@@ -1,4 +1,5 @@
-console.log("Callbacks");
+document.write("<h2>CallBack</h2><br/>");
+document.write("You can see working in console");
 
 console.log("Before prepare Food");
 

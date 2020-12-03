@@ -1,4 +1,6 @@
-console.log("Asynchronise Call");
+document.write("<h2>Asynchronise Call</h2><br/>");
+document.write("You can see working in console");
+
 
 console.log("Before prepare Food");
 
